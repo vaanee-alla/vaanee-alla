@@ -15,7 +15,15 @@
 ---
 
 ## 🔹 Experience
-### 📌 Data Analytics Intern — Yoshops.com (Jun 2025 – Present, Remote)
+
+### 📌 Data Analytics Intern — InLighnX Global Pvt Ltd (InLighn Tech) (Sept 2025 – Dec 2025, Remote)
+- Exploring the world of data — from spreadsheets to dashboards!
+- Analyzing and visualizing data using Excel, Power BI, SQL, and Python.
+- Transforming raw data into clear insights that support business goals.
+- Learning advanced data analysis, visualization, and storytelling techniques.
+- Passionately growing as a data enthusiast through hands-on projects and real-time insights.
+
+### 📌 Data Analytics Intern — Yoshops.com (Jun 2025 – Oct 2025, Remote)
 - Created interactive **Power BI dashboards** to analyze real-world datasets.  
 - Cleaned and transformed raw data using **Excel & Power Query**.  
 - Applied **DAX measures** for KPIs, calculated columns, and trend analysis.  
