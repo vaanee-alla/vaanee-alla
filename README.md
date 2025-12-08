@@ -1,61 +1,62 @@
-# 👋 Hi, I'm Vaanee Alla  
+# Hi, I'm Vaanee Alla 👋  
+### Entry-Level Data Analyst | Excel | SQL | Power BI | Google Sheets | Python | DAX
 
-💡 Aspiring **Data Analyst** with a passion for transforming raw data into actionable insights.  
-📊 Skilled in **Power BI, SQL, and Excel** with hands-on experience in data cleaning, modeling, and visualization.  
-🌱 Transitioning into Data Analytics from an HR background, bringing strong communication, reporting, and organizational skills.  
-
----
-
-## 🔹 Skills
-- **Data Visualization & Analytics**: Power BI, DAX, Power Query  
-- **Data Analysis & Reporting**: Microsoft Excel (Pivot Tables, Charts, Functions)  
-- **Database Management**: SQL  
-- **Version Control & Collaboration**: GitHub  
+I am an aspiring Data Analyst with hands-on experience in real-world business datasets, dashboards, and data-driven reporting. I specialize in data cleaning, transformation, KPI tracking, and dashboard creation using Excel, Power BI, SQL, and Python.
 
 ---
 
-## 🔹 Experience
-
-### 📌 Data Analytics Intern — InLighnX Global Pvt Ltd (InLighn Tech) (Sept 2025 – Dec 2025, Remote)
-- Exploring the world of data — from spreadsheets to dashboards!
-- Analyzing and visualizing data using Excel, Power BI, SQL, and Python.
-- Transforming raw data into clear insights that support business goals.
-- Learning advanced data analysis, visualization, and storytelling techniques.
-- Passionately growing as a data enthusiast through hands-on projects and real-time insights.
-
-### 📌 Data Analytics Intern — Yoshops.com (Jun 2025 – Oct 2025, Remote)
-- Created interactive **Power BI dashboards** to analyze real-world datasets.  
-- Cleaned and transformed raw data using **Excel & Power Query**.  
-- Applied **DAX measures** for KPIs, calculated columns, and trend analysis.  
-- Presented insights through slicers, filters, and **visual storytelling** to support business decisions.  
-
-### 📌 Self-Learning Projects — Data Analyst (Jul 2025 – Present)
-- Designed **dynamic dashboards** using Power BI.  
-- Practiced **SQL queries** for data extraction & transformation.  
-- Developed **Excel reports** with pivot tables & advanced formulas.  
-- Built real-time business case projects simulating practical data problems.  
-
-### 📌 HR Executive — LSE Health Care Services (Jan 2024 – Feb 2025, Vizag, AP)
-- Managed end-to-end recruitment for healthcare projects.  
-- Coordinated staffing for industrial healthcare units across pharma, mining & construction.  
-- Built strong stakeholder communication and project coordination skills.  
+## 🔹 Skills & Tools
+- Data Analysis, Data Cleaning, Data Transformation
+- Microsoft Excel, Google Sheets
+- SQL, Basic Python
+- Power BI, Power Query, DAX
+- Data Visualization & KPI Dashboards
+- AI-Assisted Data Analysis (ChatGPT)
+- GitHub
 
 ---
 
 ## 🔹 Projects
-- 📊 **E-commerce Sales Analytics** – Power BI dashboard uncovering sales trends, anomalies, and consumer behavior.  
-- 🍫 **Awesome Chocolates Analytics** – Delivered insights on $141M sales, top regions, and profit margin gaps.  
-- 🎬 **Movie Rental Trends & Customer Insights (Sakila DB)** – SQL queries + Power BI dashboard analyzing rentals, customer activity, and genre insights.  
+
+### ✅ Music Store Analytics Dashboard – Excel & SQL
+- Built interactive sales and revenue dashboards using SQL queries and Excel Pivot Tables.
+- Analyzed customer segmentation, genre-wise performance, and top artist trends.
+- Tracked KPIs including revenue growth, customer retention, and order volume.
+- Used AI tools for data interpretation, query optimization, and dashboard storytelling.
+
+### ✅ Amazon Sales Performance Dashboard – Excel
+- Developed interactive Amazon sales dashboard using Pivot Tables, Charts, and Slicers.
+- Analyzed state-wise sales, product performance, and order trends.
+- Automated reporting using Excel formulas for real-time insights.
+
+### ✅ Awesome Chocolates Sales Dashboard – Power BI
+- Built Power BI dashboard with DAX-based KPIs, YOY growth, profit margin, and shipment analysis.
+- Performed data modeling and established relationships across multiple tables.
+- Delivered product-wise and regional performance insights.
 
 ---
 
-## 🔹 Education
-🎓 **B-Tech in Computer Science & Engineering**  
-DADI Institute of Engineering & Technology, Anakapalle | AP (2015 – 2018)  
+## 🔹 Internship Experience
+
+### Data Analyst Intern – InLighnX Global Pvt. Ltd.
+- Analyzed business datasets using Excel, SQL, Power BI, Python, and Google Sheets.
+- Built interactive dashboards with KPIs and management insights using Power BI and DAX.
+- Cleaned, transformed, and automated data using Power Query and Excel formulas.
+- Used AI tools (ChatGPT) for SQL optimization, DAX logic support, and dashboard documentation.
+
+### Data Analyst Intern – Yoshops.com
+- Designed Power BI dashboards to analyze sales, profit, and customer performance.
+- Cleaned and processed large datasets using Excel and Power Query.
+- Created calculated columns and measures using DAX.
+- Supported business decision-making using KPI-based performance reports.
 
 ---
 
-## 🔹 Connect with Me
-- 📫 Email: **vaaneealla@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vaanee-alla)  
-- 🌐 [GitHub](https://github.com/VaaneeAlla)
+## 🔹 Career Goal
+To secure an entry-level Data Analyst role where I can apply my analytical skills, dashboarding expertise, and business intelligence knowledge to create impactful data-driven solutions.
+
+---
+
+## 📌 Connect With Me
+- LinkedIn: www.linkedin.com/in/vaanee-alla
+- Email: vaaneealla@gmail.com
