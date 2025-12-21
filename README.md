@@ -1,62 +1,75 @@
 # Hi, I'm Vaanee Alla 👋  
-### Entry-Level Data Analyst | Excel | SQL | Power BI | Google Sheets | Python | DAX
-
-I am an aspiring Data Analyst with hands-on experience in real-world business datasets, dashboards, and data-driven reporting. I specialize in data cleaning, transformation, KPI tracking, and dashboard creation using Excel, Power BI, SQL, and Python.
-
----
-
-## 🔹 Skills & Tools
-- Data Analysis, Data Cleaning, Data Transformation
-- Microsoft Excel, Google Sheets
-- SQL, Basic Python
-- Power BI, Power Query, DAX
-- Data Visualization & KPI Dashboards
-- AI-Assisted Data Analysis (ChatGPT)
-- GitHub
+### Entry-Level / Junior Data Analyst  
+**Excel | SQL | Power BI | DAX | Google Sheets | Python | ChatGPT**
 
 ---
 
-## 🔹 Projects
+## 👩‍💻 About Me
+Entry-Level Data Analyst with **9 months of hands-on internship experience** working on real-world business datasets, dashboards, and data-driven reports.  
 
-### ✅ Music Store Analytics Dashboard – Excel & SQL
-- Built interactive sales and revenue dashboards using SQL queries and Excel Pivot Tables.
-- Analyzed customer segmentation, genre-wise performance, and top artist trends.
-- Tracked KPIs including revenue growth, customer retention, and order volume.
-- Used AI tools for data interpretation, query optimization, and dashboard storytelling.
+I am a **career re-entry professional with 6+ years of prior experience**, now successfully transitioned into **Data Analytics** through structured internships and practical projects. I specialize in **data cleaning, transformation, KPI analysis, and dashboard development**, turning raw data into meaningful business insights.
 
-### ✅ Amazon Sales Performance Dashboard – Excel
-- Developed interactive Amazon sales dashboard using Pivot Tables, Charts, and Slicers.
+I actively use **AI-assisted analytics (ChatGPT)** to improve SQL queries, DAX logic, and dashboard storytelling.
+
+---
+
+## 🛠 Skills & Tools
+- **Data Analysis:** Data Cleaning, Data Transformation, KPI Analysis  
+- **Tools:** Microsoft Excel (Pivot Tables, XLOOKUP, Power Query), Google Sheets  
+- **BI & Visualization:** Power BI, DAX, Interactive Dashboards  
+- **Programming:** SQL, Basic Python  
+- **AI Tools:** ChatGPT (AI-Assisted Data Analysis & Documentation)  
+- **Other:** GitHub, Reporting, Business Insights  
+
+---
+
+## 📊 Projects
+
+### 🎵 Music Store Analytics – Excel & SQL
+- Built interactive sales and revenue dashboards using SQL and Excel Pivot Tables.
+- Analyzed customer segmentation, genre-wise performance, and artist trends.
+- Tracked KPIs such as revenue growth, customer retention, and order volume.
+- Used ChatGPT for query optimization and dashboard storytelling.
+
+---
+
+### 🛒 Amazon Sales Performance Dashboard – Excel
+- Developed interactive dashboards using Pivot Tables, Charts, and Slicers.
 - Analyzed state-wise sales, product performance, and order trends.
-- Automated reporting using Excel formulas for real-time insights.
-
-### ✅ Awesome Chocolates Sales Dashboard – Power BI
-- Built Power BI dashboard with DAX-based KPIs, YOY growth, profit margin, and shipment analysis.
-- Performed data modeling and established relationships across multiple tables.
-- Delivered product-wise and regional performance insights.
+- Automated reports using Excel formulas for faster insights.
 
 ---
 
-## 🔹 Internship Experience
+### 🍫 Awesome Chocolates Sales Dashboard – Power BI
+- Built Power BI dashboard with DAX-based KPIs including YOY growth, profit margin, and shipments.
+- Performed data modeling and created relationships across multiple tables.
+- Delivered product-wise and regional performance insights for decision-making.
+
+---
+
+## 💼 Internship Experience
 
 ### Data Analyst Intern – InLighnX Global Pvt. Ltd.
 - Analyzed business datasets using Excel, SQL, Power BI, Python, and Google Sheets.
-- Built interactive dashboards with KPIs and management insights using Power BI and DAX.
-- Cleaned, transformed, and automated data using Power Query and Excel formulas.
-- Used AI tools (ChatGPT) for SQL optimization, DAX logic support, and dashboard documentation.
-
-### Data Analyst Intern – Yoshops.com
-- Designed Power BI dashboards to analyze sales, profit, and customer performance.
-- Cleaned and processed large datasets using Excel and Power Query.
-- Created calculated columns and measures using DAX.
-- Supported business decision-making using KPI-based performance reports.
+- Built KPI dashboards and management reports using Power BI and DAX.
+- Cleaned and transformed data using Power Query and Excel automation.
+- Used ChatGPT for SQL optimization, DAX support, and documentation.
 
 ---
 
-## 🔹 Career Goal
-To secure an entry-level Data Analyst role where I can apply my analytical skills, dashboarding expertise, and business intelligence knowledge to create impactful data-driven solutions.
+### Data Analyst Intern – Yoshops.com
+- Designed Power BI dashboards for sales, profit, and customer performance analysis.
+- Processed large datasets using Excel and Power Query.
+- Created calculated columns, measures, slicers, and KPI reports using DAX.
+- Supported data-driven business decisions.
+
+---
+
+## 🎯 Career Objective
+To secure a **Junior / Entry-Level / Associate Data Analyst** role where I can apply my analytical skills, dashboarding expertise, and business intelligence knowledge to deliver impactful data-driven solutions.
 
 ---
 
 ## 📌 Connect With Me
-- LinkedIn: www.linkedin.com/in/vaanee-alla
-- Email: vaaneealla@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/vaanee-alla
+- **Email:**vaaneealla@gmail.com
