@@ -1,4 +1,4 @@
-# Hi, I'm Vaanee Alla 👋  
+# Hi, I'm Vani Alla 👋  
 ### Entry-Level / Junior Data Analyst  
 **Excel | SQL | Power BI | DAX | Google Sheets | Python | ChatGPT**
 
