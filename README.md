@@ -5,9 +5,11 @@
 ---
 
 ## 👩‍💻 About Me
+I completed my graduation in Computer Science and Engineering in 2018. After graduation, I worked as a System Operator in the government sector on a contract basis for 4 years. Then I took a career break due to family responsibilities. In 2024, I restarted my career as a Junior HR and worked in that role for one year. However, I realized that my true interest lies in the field of data analytics. So, I started learning relevant technologies and transitioned towards a Data Analyst career. To gain practical experience, I completed a 9-month internship as a Data Analyst Intern with Yoshops.com and InLighnx Global Pvt. Ltd. Now, I am highly motivated and passionate about building my career as a Data Analyst.
+
 Entry-Level Data Analyst with **9 months of hands-on internship experience** working on real-world business datasets, dashboards, and data-driven reports.  
 
-I am a **career re-entry professional with 6+ years of prior experience**, now successfully transitioned into **Data Analytics** through structured internships and practical projects. I specialize in **data cleaning, transformation, KPI analysis, and dashboard development**, turning raw data into meaningful business insights.
+I am a **career re-entry professional with 5+ years of prior experience**, now successfully transitioned into **Data Analytics** through structured internships and practical projects. I specialize in **data cleaning, transformation, KPI analysis, and dashboard development**, turning raw data into meaningful business insights.
 
 I actively use **AI-assisted analytics (ChatGPT)** to improve SQL queries, DAX logic, and dashboard storytelling.
 
